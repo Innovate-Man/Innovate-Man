@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Innovate-Man
+- 👋 Hi, I’m @InnovateMan1
 - 👀 I’m interested in React
 - 🌱 I’m currently learning about Crypto Currency
 - 📫 How to reach me innovateman02@gmail.com
